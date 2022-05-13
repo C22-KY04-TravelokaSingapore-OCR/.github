@@ -1,6 +1,6 @@
 ## Hey, this is us 👋
 
-We are building OCR to Validate KTP on Fintech - KYC (Know-Your-Customer).
+We are building OCR to Validate KTP on Fintech - KYC (Know-Your-Customer). In fact, this is our project at Traveloka Singapore for Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka company capstone project.
 
 ### Meet the Team
 
