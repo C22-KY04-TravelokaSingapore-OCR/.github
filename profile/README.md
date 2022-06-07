@@ -1,4 +1,4 @@
-![](../banner-project.png)
+![](https://raw.githubusercontent.com/C22-KY04/.github/main/banner-project.png)
 
 ### Hey, this is us 👋
 
