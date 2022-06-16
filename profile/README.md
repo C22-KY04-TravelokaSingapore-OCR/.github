@@ -9,7 +9,7 @@ We're a team consist of 9 peoples at Bangkit Academy led by Google, Tokopedia, G
 Our team consists of 3 divisions, and each division has its own task. Machine Learning division which makes Machine Learning Model and algorithms to classify Indonesian ID Card and extract the data (Optical Character Recognition) contained in them. Cloud Computing division which designs Cloud Architectures for Applications and builds REST APIs for data and connects Machine Learning Models with Mobile Applications. Mobile Development division which creates User Interface designs and builds Android Applications to display OCR prototypes.
 
 | Member | Student ID | Learning Path | University | Social Media |
-| ----- | ----- | ----- | ----- | ----- |
+| --- | --- | --- | --- | --- |
 | Ivan Muhammad Nizar | M7004F0304 | Machine Learning | Institut Teknologi Sepuluh Nopember | [LinkedIn](https://www.linkedin.com/in/ivanmuhammadn/) |
 | Riza Isna Khoirun Nisa | M2015F1409 | Machine Learning | Universitas Negeri Yogyakarta | [LinkedIn](https://www.linkedin.com/in/rizaisnakhoir/) |
 | Bryan Laurentio Anggoro | M2004F0167 | Machine Learning | Institut Teknologi Sepuluh Nopember | [LinkedIn](https://www.linkedin.com/in/bryanlaurentio/) |
@@ -20,16 +20,10 @@ Our team consists of 3 divisions, and each division has its own task. Machine Le
 | Prasetya Naufal Rahmandita | A2006F0516 | Mobile Development | Universitas Brawijaya | [LinkedIn](http://www.linkedin.com/in/prasetya-naufal-54b352228) |
 | Rizky Nuansa Nanda Permana | A7006F0643 | Mobile Development | Universitas Brawijaya | [LinkedIn](https://www.linkedin.com/in/rizkynuansa/) |
 
-### Repository 📚
+### Repositories 📚
 
-**Machine Learning**
+- Machine Learning: [ML-C22-KY04](https://github.com/C22-KY04/ml-c22-ky04)
+- Cloud Computing: [CC-C22-KY04](https://github.com/C22-KY04/cc-c22-ky04)
+- Mobile Development: [MD-C22-KY04](https://github.com/C22-KY04/md-c22-ky04)
 
-[ML-C22-KY04](https://github.com/C22-KY04/ml-c22-ky04). Notebooks of our research and modelling for ID Card classification and algorithms for Optical Character Recognition.
-
-**Cloud Computing**
-
-[CC-C22-KY04](https://github.com/C22-KY04/cc-c22-ky04). Cloud Architecture diagram, ID Cards API built with Express, and Optical Character Recognition API built with Flask.
-
-**Mobile Development**
-
-[MD-C22-KY04](https://github.com/C22-KY04/md-c22-ky04). Login-Register App with OCR feature based on Android Platform with Kotlin.
+<p align="right"> Keep Bangkit Spirits Up! <br> C22-KY04 Teams</p>
