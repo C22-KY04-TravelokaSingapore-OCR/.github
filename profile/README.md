@@ -1,12 +1,13 @@
 ![](https://raw.githubusercontent.com/C22-KY04/.github/main/banner-project.png)
 
-### Hey, this is us 👋
+## C22-KY04
 
-We're a team consist of 9 peoples at Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka. We're in collaboration with Traveloka Singapore creating a prototype with a theme of OCR to Validate KTP on Fintech - KYC (Know-Your-Customer).
+Company Capstone Project <br>
+*Partner by Traveloka Singapore*
 
-### Our Teams 👦👧
+OCR to Validate KTP on Fintech KYC (Know-Your-Customer)
 
-Our team consists of 3 divisions, and each division has its own task. Machine Learning division which makes Machine Learning Model and algorithms to classify Indonesian ID Card and extract the data (Optical Character Recognition) contained in them. Cloud Computing division which designs Cloud Architectures for Applications and builds REST APIs for data and connects Machine Learning Models with Mobile Applications. Mobile Development division which creates User Interface designs and builds Android Applications to display OCR prototypes.
+## Our Teams
 
 | Member | Student ID | Learning Path | University | Social Media |
 | --- | --- | --- | --- | --- |
@@ -20,10 +21,10 @@ Our team consists of 3 divisions, and each division has its own task. Machine Le
 | Prasetya Naufal Rahmandita | A2006F0516 | Mobile Development | Universitas Brawijaya | [Github](https://github.com/Prasetya25) [LinkedIn](http://www.linkedin.com/in/prasetya-naufal-54b352228) |
 | Rizky Nuansa Nanda Permana | A7006F0643 | Mobile Development | Universitas Brawijaya | [Github](https://github.com/baskom99) [LinkedIn](https://www.linkedin.com/in/rizkynuansa/) |
 
-### Repositories 📚
+## Repositories
 
 - Machine Learning: [ML-C22-KY04](https://github.com/C22-KY04/ml-c22-ky04)
 - Cloud Computing: [CC-C22-KY04](https://github.com/C22-KY04/cc-c22-ky04)
 - Mobile Development: [MD-C22-KY04](https://github.com/C22-KY04/md-c22-ky04)
 
-<p align="right"> Keep Bangkit Spirits Up! <br> C22-KY04 Teams</p>
+<p align="right"> Keep Bangkit Spirits Up!<br>C22-KY04 Teams</p>
